@@ -1,7 +1,7 @@
 # 🐞 Insect Detection & Counting System (YOLO-Based)
 
 AI-powered prototype for automated insect detection, counting, and threshold-based alerting for agricultural monitoring.
-
+Video Demo : https://1drv.ms/v/c/2aec32f2024db85d/IQCjwh21nTg_Q6ru9Pv3T8SeAX1Y7EkMsWh9ZRsPL0vkddM?e=KUZsP4
 ---
 
 ## 🧪 Project Overview
