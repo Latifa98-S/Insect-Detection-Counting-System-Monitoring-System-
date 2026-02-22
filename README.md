@@ -160,7 +160,7 @@ No proprietary company data, internal code, or confidential material is included
 The purpose of this repository is to document the system architecture and technical approach.
 
 ---
->Note Video Demo : https://1drv.ms/v/c/2aec32f2024db85d/IQCjwh21nTg_Q6ru9Pv3T8SeAX1Y7EkMsWh9ZRsPL0vkddM?e=KUZsP4
+>Video Demo : https://1drv.ms/v/c/2aec32f2024db85d/IQCjwh21nTg_Q6ru9Pv3T8SeAX1Y7EkMsWh9ZRsPL0vkddM?e=KUZsP4
 
 ## 👩‍💻 Author
 
